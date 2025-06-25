@@ -1,5 +1,6 @@
 # 📘 Livedox
-Kurze, prägnante Beschreibung deines Projekts.
+**LiveDox** ist eine Echtzeit-Transkriptions- und Übersetzungsplattform, die Sprache sofort in Text umwandelt – auf Wunsch sogar mit Live-Übersetzung und Sprachausgabe.  
+Ideal für Konferenzen, Meetings oder Situationen, in denen Sprachbarrieren überwunden werden müssen.
 
 ![License](https://img.shields.io/github/license/Robertwlt03/LiveDox)
 ![Last Commit](https://img.shields.io/github/last-commit/Robertwlt03/LiveDox)
